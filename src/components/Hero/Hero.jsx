@@ -57,13 +57,13 @@ const Hero = () => {
           <ImageCharacter
             dragConstraints={dragConstraints}
             className="one"
-            src={`${process.env.PUBLIC_URL}/images/1.png`}
+            src={`${process.env.PUBLIC_URL}/images/image 1.png`}
             // src={`${process.env.PUBLIC_URL}/images/1.png`}
           />
           <ImageCharacter
             dragConstraints={dragConstraints}
             className="two"
-            src={`${process.env.PUBLIC_URL}/images/2.png`}
+            src={`${process.env.PUBLIC_URL}/images/image 2.png`}
 
             // src={`${process.env.PUBLIC_URL}/images/2.png`}
           />
@@ -73,7 +73,7 @@ const Hero = () => {
             drag
             dragConstraints={dragConstraints}
             className="three"
-            src={`${process.env.PUBLIC_URL}/images/3.png`}
+            src={`${process.env.PUBLIC_URL}/images/image 3.png`}
 
             // src={`${process.env.PUBLIC_URL}/images/3.png`}
           />
