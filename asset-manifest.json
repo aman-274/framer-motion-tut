@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/framer-motion-tut/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/framer-motion-tut/static/js/main.c008f5a4.chunk.js",
-    "main.js.map": "/framer-motion-tut/static/js/main.c008f5a4.chunk.js.map",
+    "main.js": "/framer-motion-tut/static/js/main.fdcd12f6.chunk.js",
+    "main.js.map": "/framer-motion-tut/static/js/main.fdcd12f6.chunk.js.map",
     "runtime-main.js": "/framer-motion-tut/static/js/runtime-main.7c5cdaa5.js",
     "runtime-main.js.map": "/framer-motion-tut/static/js/runtime-main.7c5cdaa5.js.map",
     "static/js/2.2bf190c3.chunk.js": "/framer-motion-tut/static/js/2.2bf190c3.chunk.js",
     "static/js/2.2bf190c3.chunk.js.map": "/framer-motion-tut/static/js/2.2bf190c3.chunk.js.map",
     "index.html": "/framer-motion-tut/index.html",
-    "precache-manifest.083f53d0b3802f72ab4b19e4de905cbc.js": "/framer-motion-tut/precache-manifest.083f53d0b3802f72ab4b19e4de905cbc.js",
+    "precache-manifest.45d0e5fb96791f6e2e21fd328d697d06.js": "/framer-motion-tut/precache-manifest.45d0e5fb96791f6e2e21fd328d697d06.js",
     "service-worker.js": "/framer-motion-tut/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/framer-motion-tut/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.2bf190c3.chunk.js.LICENSE.txt": "/framer-motion-tut/static/js/2.2bf190c3.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7c5cdaa5.js",
     "static/js/2.2bf190c3.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.c008f5a4.chunk.js"
+    "static/js/main.fdcd12f6.chunk.js"
   ]
 }
